@@ -15,19 +15,7 @@ I enjoy working with real-world data and building clean, practical projects that
 
 ---
 
-## 💻 Projects
-
-### 🔹 Tourism SQL Project  
-A fictional travel database where I filter European destinations by season and price using JOIN, GROUP BY and WHERE.  
-➡️ [View Project](https://github.com/victorjourney/turism_sql)
-
-### 🔹 WBS Classicmodels Exercise  
-Real JOIN & aggregation queries using `classicmodels` database from my WBS training.  
-➡️ [View SQL File](https://github.com/victorjourney/victorjourney/blob/main/aufgabe_clasicmodels.sql)
-
-### 🔹 Geo SQL – Database Test  
-Simple start with a custom `geo` database, can be expanded with countries, cities, regions.  
-➡️ [View SQL File](https://github.com/victorjourney/victorjourney/blob/main/geo.sql)
+## 💻 Project
 
 ### 🔹 WBS Python Projects  
 Python exercises and mini-projects from modules 1–3 of my WBS Software Developer course.  
